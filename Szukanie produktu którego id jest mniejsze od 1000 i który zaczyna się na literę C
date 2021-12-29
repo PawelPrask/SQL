@@ -1,0 +1,3 @@
+select ProductID, Name
+from Production.Product
+where ProductID<1000 and Name like 'C%';
