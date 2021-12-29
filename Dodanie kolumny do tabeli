@@ -1,0 +1,2 @@
+alter table Production.product
+add Color varchar(100);
